@@ -1,0 +1,9 @@
+{
+  "issued" : "2026-09-29T15:19:06Z",
+  "revoked" : [
+    "7030adbaa172773ad579afbfce81d95a90f303f1ec77a470fb1ff6e1a0874c2c"
+  ],
+  "sequence" : 1,
+  "signature" : "OLqg5vdJHfeAMOAZStmIq75ogXrjXet0bs4vEG4k5a617mdQAOylgccBbyz-m-qXnEYFi6Ysvg6RJwjcwLR7Bw",
+  "version" : 1
+}
